@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Griffy&display=swap');
+
+body{
+    text-align: center; 
+    font-family: 'Griffy', cursive;
+}
+
+nav{
+    text-align: center;
+    box-shadow: 10px 5px 20px #FF0000; 
+    margin-bottom: 4rem;
+}
+
+nav h1{
+    display: inline;
+    margin-left: 4rem;
+    font-family: 'Griffy', cursive;
+    font-size: 10rem;
+    text-shadow: 5px 5px 5px #FF0000;
+}
+
+section h1{
+    font-size: 4rem;
+}
+
+section a{
+    text-decoration: none;
+    color: black;
+}
+
+footer{
+    background-color: #FF0000;
+    padding: 6rem;
+}
+
+input{
+    padding: 1.5rem;
+    border-color: orange;
+    margin: 1rem;
+}
+
+button{
+    padding: 2rem;
+    border: 1px solid white;
+    color: white;
+    background-color: #FF0000;
+}
+
+
